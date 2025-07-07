@@ -21,10 +21,14 @@
 
 ## DE
 
-🔐 **Neon File Encryptor** ist eine vollständig clientseitige Webanwendung zur Datei-Verschlüsselung und -Entschlüsselung mit **AES-256 (GCM-Modus)** direkt im Browser – sicher, performant und benutzerfreundlich.
+> 🔐 **Neon File Encryptor** ist eine vollständig clientseitige Webanwendung zur Datei-Verschlüsselung und -Entschlüsselung mit **AES-256 (GCM-Modus)** direkt im Browser 
+  – sicher, performant und benutzerfreundlich.
 
+
+```yarn
 💡 Entwickelt für IT-Security, Penetrationstests, Business-Use-Cases und Datenschutz.  
 🌈 Neon-Design mit subtil animiertem Hintergrund und moderner UX.
+```
 
 ### Features
 - AES-256-GCM Verschlüsselung über Web Crypto API
@@ -35,8 +39,6 @@
 - Sprachen: Deutsch / Englisch
 - GitHub-Link, Footer, Animierter Hintergrund
 
----
-
 <br>
 
 ---
@@ -45,10 +47,13 @@
 
 ## EN
 
-🔐 **Neon File Encryptor** is a fully client-side web application for file encryption and decryption with **AES-256 (GCM mode)** directly in the browser – secure, high-performance, and user-friendly.
+> 🔐 **Neon File Encryptor** is a fully client-side web application for file encryption and decryption with **AES-256 (GCM mode)** directly in the browser
+  – secure, high-performance, and user-friendly.
 
+```yarn
 💡 Designed for IT security, penetration testing, business use cases, and data protection.
 🌈 Neon design with a subtly animated background and modern UX.
+```
 
 ### Features
 - AES-256-GCM encryption via Web Crypto API
