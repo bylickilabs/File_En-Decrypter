@@ -68,3 +68,5 @@
 - GitHub link, footer, animated background
 
 ---
+
+MIT [LICENSE](LICENSE)
